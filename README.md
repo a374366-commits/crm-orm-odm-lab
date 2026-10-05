@@ -1,3 +1,17 @@
+<div align="center">
+<h1>Universidad Autónoma de Chihuahua</h1>
+<h2>Facultad de Ingeniería</h2>
+<p><strong>Desarrollo de Aplicaciones Web</strong></p>
+<br>
+<h2>Tarea 5: Laboratorio API de CRM con ORM / ODM</h2>
+<p><strong>Grupo:</strong> 5K2</p>
+<p><strong>Docente:</strong> M.I. Luis Antonio Ramírez Martínez</p>
+<p><strong>Alumna:</strong> Jenny Guadalupe Quintana Sanchez</p>
+<p>4 de octubre de 2026</p>
+</div>
+
+---
+
 # CRM ORM/ODM Lab
 
 API REST de un CRM básico que combina un ORM (Sequelize + PostgreSQL) y un ODM (Mongoose + MongoDB). Los usuarios, compañías y contactos se guardan en PostgreSQL; las actividades se guardan en MongoDB.
