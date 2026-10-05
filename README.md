@@ -1,11 +1,12 @@
 <div align="center">
+<p><img src="https://prensa.uach.mx/assets/media/publications/2023/4/5367_simbolos-universitarios/fing-escudo.png" alt="Escudo oficial de la Facultad de Ingeniería de la UACH" width="150"></p>
 <h1>Universidad Autónoma de Chihuahua</h1>
 <h2>Facultad de Ingeniería</h2>
 <p><strong>Desarrollo de Aplicaciones Web</strong></p>
 <br>
 <h2>Tarea 5: Laboratorio API de CRM con ORM / ODM</h2>
 <p><strong>Grupo:</strong> 5K2</p>
-<p><strong>Docente:</strong> M.I. Luis Antonio Ramírez Martínez</p>
+<p><strong>Docente:</strong> Luis Antonio Ramírez Martínez</p>
 <p><strong>Alumna:</strong> Jenny Guadalupe Quintana Sanchez</p>
 <p>4 de octubre de 2026</p>
 </div>
